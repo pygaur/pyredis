@@ -5,7 +5,8 @@ A python api to interact with redis .It implements all redis data structures and
 Useful to seperate calling redis connection to each place in any projects .
 
 
-How to Use :
+How to Use :    
+
 import SmartCache object into your file.
 <pre>
 >>>from smartcache.redis_communicator import SmartCache
