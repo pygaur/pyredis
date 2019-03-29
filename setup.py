@@ -8,7 +8,7 @@ setup(name="pyredis",
       url = "gaurprashant.blogspot.in",
       packages=find_packages(),
       install_requires=[
-            "redis==2.9.1",
+            "redis",
         ],
       include_package_data=True,
       )

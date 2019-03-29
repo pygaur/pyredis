@@ -1,1 +1,1 @@
-import redis_communicator
+from smartcache.redis_communicator import SmartCache
