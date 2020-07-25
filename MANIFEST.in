@@ -1,3 +1,0 @@
-graft *
-prune .git
-prune .gitignore
